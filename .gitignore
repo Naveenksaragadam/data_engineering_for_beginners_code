@@ -236,9 +236,3 @@ spark-warehouse/
 book/
 
 /metastore_db/
-
-# Jupyter Notebooks and exploration
-*.ipynb
-.ipynb_checkpoints/
-.vscode/
-
